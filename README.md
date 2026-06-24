@@ -1,5 +1,5 @@
-# RC-AC
-RC - AC adalah sistem anti cheat untuk server Samp , mengamankan server anda dari serangan cheater 
+# IC-AC
+IC - AC adalah sistem anti cheat untuk server Samp , mengamankan server anda dari serangan cheater 
 
 FITURE :
 DETECT AIRBRAKE ONFOOT/VEHICLE
@@ -12,17 +12,7 @@ DETECT TROLL ONFOOT/VEHICLE
 
 DETECT SLAPPER
 
-DETECT WEAPON HACK
-
-DETECT AMMO HACK
-
 DETECT C-BUG
-
-DETECT RAPID FIRE
-
-DETECT UNLIMITED AMMO
-
-DETECT NO RELOAD
 
 DETECT GOD MODE ONFOOT/VEHICLE
 
@@ -34,8 +24,6 @@ DETECT JETPACK
 
 DETECT CAR JACKED
 
-DETECT CAR RAMMING
-
 DETECT CRASHER
 
 DETECT DUPE ITEM
@@ -44,4 +32,4 @@ BISA DI ON / OFF ANTI CHEAT SESUAI KEBUTUHAN SERVER
 
 GABUNG COMMUNITY KAMI UNTUK INFO BERLANGGANAN : 
 
-https://chat.whatsapp.com/GR5VTmlCNgu5XLwLQEd4yT
+https://chat.whatsapp.com/CADlHPIDGLjFmVhw2UW2k5
