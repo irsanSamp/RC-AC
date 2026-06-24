@@ -1,5 +1,5 @@
-# IC-AC
-IC - AC adalah sistem anti cheat untuk server Samp , mengamankan server anda dari serangan cheater 
+# IR-AC V1.0
+IR - AC adalah sistem anti cheat untuk server Samp , mengamankan server anda dari serangan cheater 
 
 FITURE :
 DETECT AIRBRAKE ONFOOT/VEHICLE
