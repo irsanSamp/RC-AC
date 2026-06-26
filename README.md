@@ -1,32 +1,37 @@
-````markdown
+<div align="center">
+
 # 🛡️ IR-AC
+### **Versi 1.1**
 
-> ### Advanced Anti-Cheat Filterscript for SA:MP
->
-> **Versi:** `1.1 Stable`
+**Filterscript Anti-Cheat Canggih untuk SA:MP**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Version-v1.1-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Language-PAWN-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Platform-SA--MP-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-Private-darkgreen?style=for-the-badge">
-</p>
+![Version](https://img.shields.io/badge/Version-1.1-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-PAWN-orange?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-SA--MP-red?style=for-the-badge)
 
 ---
 
-## 📖 Tentang
+*"Lindungi server Anda dari permainan yang tidak adil."*
 
-**IR-AC** merupakan filterscript **Anti-Cheat** yang dikembangkan khusus untuk server **SA:MP**.
-
-IR-AC dirancang untuk mendeteksi berbagai jenis cheat dengan akurasi tinggi, mengurangi *false detection*, serta menjaga performa server tetap ringan. Filterscript ini dapat digunakan pada server **Roleplay**, **Freeroam**, maupun gamemode kustom lainnya.
+</div>
 
 ---
 
-## ✨ Fitur
+# 📖 Tentang
+
+**IR-AC** adalah skrip filter (filterscript) anti-cheat canggih yang dikembangkan untuk server **SA:MP**.
+
+Tujuannya adalah untuk mendeteksi dan mencegah kecurangan umum sambil meminimalkan deteksi palsu (*false positive*) selama permainan berlangsung.
+
+Dirancang agar ringan, efisien, dan mudah diintegrasikan ke dalam mode permainan *Roleplay*, *Freeroam*, atau *gamemode* kustom apa pun.
+
+---
+
+# ✨ Fitur
 
 | Deteksi | Status |
-|:--------------------------------|:------:|
+| :--- | :---: |
 | ❤️ Health Hack | ✅ |
 | 🛡️ Armor Hack | ✅ |
 | 🏃 Speedhack (OnFoot) | ✅ |
@@ -35,116 +40,28 @@ IR-AC dirancang untuk mendeteksi berbagai jenis cheat dengan akurasi tinggi, men
 | 📍 Teleport (OnFoot) | ✅ |
 | 🚗 Vehicle God Mode | ✅ |
 | 💰 Money Hack | ✅ |
-| 🔫 C-Bug Detection | ✅ |
+| 🔫 Deteksi C-Bug | ✅ |
 | ⚡ Rapid Fire | ✅ |
 | 🎯 Weapon Hack | ✅ |
-| 🌐 VPN Check | ✅ |
+| 🌍 Periksa VPN | ✅ |
 
 ---
 
-## ⚡ Keunggulan
+# ⚙️ Keunggulan
 
-- 🚀 Ringan digunakan
-- ⚡ Performa tinggi
-- 🛡️ Mengurangi *False Detection*
-- 🤖 Deteksi otomatis
-- 📦 Mudah dipasang
-- 🔄 Mudah diperbarui
-- 💻 Ramah terhadap performa server
+* ✔ Ringan
+* ✔ Kinerja yang Dioptimalkan
+* ✔ Pemasangan Mudah
+* ✔ Perlindungan Deteksi
+* ✔ Deteksi Otomatis
+* ✔ Ramah terhadap Sistem
 
 ---
 
-## 📂 Instalasi
+# 📂 Instalasi
 
-Pindahkan file **IR-AC.amx** ke dalam folder:
+1. Pindahkan file `.amx` ke dalam folder **filterscripts** Anda.
+2. Edit file `server.cfg` Anda:
 
 ```text
-filterscripts/
-```
-
-Kemudian buka file **server.cfg** dan tambahkan:
-
-```cfg
 filterscripts irsan1 irsan2 IR-AC
-```
-
-Setelah itu restart server.
-
----
-
-## 📌 Persyaratan
-
-- SA:MP 0.3.7
-
----
-
-## 📊 Versi Saat Ini
-
-```text
-IR-AC v1.1 Stable
-```
-
----
-
-## 🚀 Pembaruan Berikutnya
-
-- ✅ Vehicle SpeedHack Detection Type 1–3
-- ✅ Vehicle AirBrake Detection
-- ✅ Vehicle FlyHack Detection
-- ✅ Vehicle Teleport Detection
-- ✅ OnFoot SpeedHack Type 1.3
-- ✅ No Reload Detection
-- ✅ Fake Lag Detection (Beta)
-- ✅ Silent Aim Detection
-- ✅ Aimbot Detection
-- ✅ Improved False Detection
-
----
-
-## 📸 Cuplikan
-
-```text
-[IR-AC] Player detected using Health Hack.
-[IR-AC] Player kicked successfully.
-```
-
----
-
-## ❤️ Credits
-
-### Developer
-
-```text
-IRSAN SAMP
-```
-
-### Project
-
-```text
-IR - ANTI CHEAT
-Version 1.1
-```
-
-### Community
-
-💬 WhatsApp
-
-> https://chat.whatsapp.com/CADlHPIDGLjFmVhw2UW2k5
-
----
-
-## ⭐ Dukungan
-
-Apabila proyek ini membantu server Anda, jangan lupa memberikan **⭐ Star** pada repository ini.
-
-Hal tersebut sangat membantu pengembangan **IR-AC** ke depannya.
-
----
-
-## 📜 Lisensi
-
-Copyright © 2026 **IRSAN SAMP**
-
-Seluruh hak cipta dilindungi.
-````
-
