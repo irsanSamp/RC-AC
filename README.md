@@ -1,29 +1,32 @@
-```
-# 🛡️ IR-AC v1.1
+````markdown
+# 🛡️ IR-AC
 
-> **Anti-Cheat Canggih untuk Server SA:MP**
+> ### Advanced Anti-Cheat Filterscript for SA:MP
+>
+> **Versi:** `1.1 Stable`
 
-![Version](https://img.shields.io/badge/Version-1.1-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square)
-![Language](https://img.shields.io/badge/Language-PAWN-orange?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-SA--MP-red?style=flat-square)
+<p align="left">
+  <img src="https://img.shields.io/badge/Version-v1.1-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-PAWN-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-SA--MP-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-Private-darkgreen?style=for-the-badge">
+</p>
 
 ---
 
 ## 📖 Tentang
 
-**IR-AC** merupakan filterscript anti-cheat yang dirancang untuk melindungi server **SA:MP** dari berbagai jenis cheat.
+**IR-AC** merupakan filterscript **Anti-Cheat** yang dikembangkan khusus untuk server **SA:MP**.
 
-Fokus utama IR-AC adalah memberikan deteksi yang akurat, ringan dijalankan, serta meminimalkan *false detection* agar pemain normal tidak terkena hukuman secara tidak sengaja.
-
-Kompatibel untuk server **Roleplay**, **Freeroam**, maupun gamemode kustom lainnya.
+IR-AC dirancang untuk mendeteksi berbagai jenis cheat dengan akurasi tinggi, mengurangi *false detection*, serta menjaga performa server tetap ringan. Filterscript ini dapat digunakan pada server **Roleplay**, **Freeroam**, maupun gamemode kustom lainnya.
 
 ---
 
 ## ✨ Fitur
 
-| Fitur | Status |
-|:----------------------------|:------:|
+| Deteksi | Status |
+|:--------------------------------|:------:|
 | ❤️ Health Hack | ✅ |
 | 🛡️ Armor Hack | ✅ |
 | 🏃 Speedhack (OnFoot) | ✅ |
@@ -39,28 +42,33 @@ Kompatibel untuk server **Roleplay**, **Freeroam**, maupun gamemode kustom lainn
 
 ---
 
-## ⚙️ Keunggulan
+## ⚡ Keunggulan
 
-- 🚀 Ringan
-- ⚡ Performa Optimal
-- 🛠️ Instalasi Mudah
-- 🛡️ Perlindungan False Detection
-- 🤖 Deteksi Otomatis
-- 💻 Ramah terhadap Performa Server
+- 🚀 Ringan digunakan
+- ⚡ Performa tinggi
+- 🛡️ Mengurangi *False Detection*
+- 🤖 Deteksi otomatis
+- 📦 Mudah dipasang
+- 🔄 Mudah diperbarui
+- 💻 Ramah terhadap performa server
 
 ---
 
 ## 📂 Instalasi
 
-Masukkan file **IR-AC.amx** ke dalam folder **filterscripts**.
+Pindahkan file **IR-AC.amx** ke dalam folder:
 
-Edit file `server.cfg`:
+```text
+filterscripts/
+```
+
+Kemudian buka file **server.cfg** dan tambahkan:
 
 ```cfg
 filterscripts irsan1 irsan2 IR-AC
 ```
 
-Kemudian restart server.
+Setelah itu restart server.
 
 ---
 
@@ -73,35 +81,70 @@ Kemudian restart server.
 ## 📊 Versi Saat Ini
 
 ```text
-IR-AC v1.1
+IR-AC v1.1 Stable
 ```
 
 ---
 
 ## 🚀 Pembaruan Berikutnya
 
-- Vehicle SpeedHack Type 1–3
-- No Reload Detection
-- OnFoot SpeedHack Type 1.3
-- Fake Lag Detection *(Beta)*
+- ✅ Vehicle SpeedHack Detection Type 1–3
+- ✅ Vehicle AirBrake Detection
+- ✅ Vehicle FlyHack Detection
+- ✅ Vehicle Teleport Detection
+- ✅ OnFoot SpeedHack Type 1.3
+- ✅ No Reload Detection
+- ✅ Fake Lag Detection (Beta)
+- ✅ Silent Aim Detection
+- ✅ Aimbot Detection
+- ✅ Improved False Detection
+
+---
+
+## 📸 Cuplikan
+
+```text
+[IR-AC] Player detected using Health Hack.
+[IR-AC] Player kicked successfully.
+```
 
 ---
 
 ## ❤️ Credits
 
-### IRSAN SAMP
+### Developer
+
+```text
+IRSAN SAMP
+```
+
+### Project
 
 ```text
 IR - ANTI CHEAT
+Version 1.1
 ```
 
 ### Community
 
-https://chat.whatsapp.com/CADlHPIDGLjFmVhw2UW2k5
+💬 WhatsApp
+
+> https://chat.whatsapp.com/CADlHPIDGLjFmVhw2UW2k5
 
 ---
 
-⭐ **Jika proyek ini bermanfaat, jangan lupa berikan Star pada repositori ini.**
+## ⭐ Dukungan
 
-**© 2026 IR-AC**
-```
+Apabila proyek ini membantu server Anda, jangan lupa memberikan **⭐ Star** pada repository ini.
+
+Hal tersebut sangat membantu pengembangan **IR-AC** ke depannya.
+
+---
+
+## 📜 Lisensi
+
+Copyright © 2026 **IRSAN SAMP**
+
+Seluruh hak cipta dilindungi.
+````
+
