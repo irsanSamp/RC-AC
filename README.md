@@ -67,3 +67,7 @@ Dirancang agar ringan, efisien, dan mudah diintegrasikan ke dalam mode permainan
 
 ```text
 filterscripts irsan1 irsan2 IR-AC
+
+---
+# COMMUNITY
+https://chat.whatsapp.com/CADlHPIDGLjFmVhw2UW2k5
