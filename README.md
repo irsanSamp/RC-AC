@@ -22,7 +22,7 @@
 
 **IR-AC** adalah skrip filter (filterscript) anti-cheat canggih yang dikembangkan untuk server **SA:MP**.
 
-Tujuannya adalah untuk mendeteksi dan mencegah kecurangan umum sambil meminimalkan deteksi palsu (*false positive*) selama permainan berlangsung.
+Tujuannya adalah untuk mendeteksi dan mencegah kecurangan umum secara permainan langsung.
 
 Dirancang agar ringan, efisien, dan mudah diintegrasikan ke dalam mode permainan *Roleplay*, *Freeroam*, atau *gamemode* kustom apa pun.
 
@@ -32,6 +32,7 @@ Dirancang agar ringan, efisien, dan mudah diintegrasikan ke dalam mode permainan
 
 | Deteksi | Status |
 | :--- | :---: |
+| EXPIRED DATE : 29 - 06 - 2026 |
 | ❤️ Health Hack | ✅ |
 | 🛡️ Armor Hack | ✅ |
 | 🏃 Speedhack (OnFoot) | ✅ |
@@ -55,6 +56,7 @@ Dirancang agar ringan, efisien, dan mudah diintegrasikan ke dalam mode permainan
 * ✔ Perlindungan Deteksi
 * ✔ Deteksi Otomatis
 * ✔ Ramah terhadap Sistem
+* ✔ Bisa Diatur On/Off Fitur
 
 ---
 
