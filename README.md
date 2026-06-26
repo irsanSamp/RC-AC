@@ -64,6 +64,7 @@ Dirancang agar ringan, efisien, dan mudah diintegrasikan ke dalam mode permainan
 
 1. Pindahkan file `.amx` ke dalam folder **filterscripts** Anda.
 2. Edit file `server.cfg` Anda:
+3. Restart Server 
 
 ```text
 filterscripts irsan1 irsan2 IR-AC
