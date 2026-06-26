@@ -32,14 +32,19 @@ Dirancang agar ringan, efisien, dan mudah diintegrasikan ke dalam mode permainan
 
 | Deteksi | Status |
 | :--- | :---: |
-| EXPIRED DATE : 29 - 06 - 2026 |
+| **Masa Berlaku:** Hingga 29 - 06 - 2026 | |
 | ❤️ Health Hack | ✅ |
 | 🛡️ Armor Hack | ✅ |
 | 🏃 Speedhack (OnFoot) | ✅ |
 | ✈️ AirBrake (OnFoot) | ✅ |
 | 🕊️ FlyHack (OnFoot) | ✅ |
 | 📍 Teleport (OnFoot) | ✅ |
+| 🏎️ Speedhack (InVehicle) | ✅ |
+| 🛫 AirBrake (InVehicle) | ✅ |
+| 🛸 FlyHack (InVehicle) | ✅ |
 | 🚗 Vehicle God Mode | ✅ |
+| 🚫 Deteksi Carjack (Ilegal) | ✅ |
+| 🔧 Deteksi Vehicle Mod (Mod Shop Hack) | ✅ |
 | 💰 Money Hack | ✅ |
 | 🔫 Deteksi C-Bug | ✅ |
 | ⚡ Rapid Fire | ✅ |
@@ -71,4 +76,4 @@ filterscripts irsan1 irsan2 IR-AC
 
 ---
 # COMMUNITY
-https://chat.whatsapp.com/CADlHPIDGLjFmVhw2UW2k5
+[https://chat.whatsapp.com/CADlHPIDGLjFmVhw2UW2k5](https://chat.whatsapp.com/CADlHPIDGLjFmVhw2UW2k5)
