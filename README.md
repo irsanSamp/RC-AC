@@ -1,87 +1,76 @@
-````markdown
-<div align="center">
+```
+# 🛡️ IR-AC v1.1
 
-# 🛡️ IR-AC
-### **Version 1.1**
+> **Anti-Cheat Canggih untuk Server SA:MP**
 
-**Anti-Cheat Canggih Filterscript untuk SA:MP**
-
-![Version](https://img.shields.io/badge/Version-1.1-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-PAWN-orange?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-SA--MP-red?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.1-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square)
+![Language](https://img.shields.io/badge/Language-PAWN-orange?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-SA--MP-red?style=flat-square)
 
 ---
 
-*"Lindungi server Anda dari permainan yang tidak adil."*
+## 📖 Tentang
 
-</div>
+**IR-AC** merupakan filterscript anti-cheat yang dirancang untuk melindungi server **SA:MP** dari berbagai jenis cheat.
 
----
+Fokus utama IR-AC adalah memberikan deteksi yang akurat, ringan dijalankan, serta meminimalkan *false detection* agar pemain normal tidak terkena hukuman secara tidak sengaja.
 
-# 📖 Tentang
-
-**IR-AC** adalah filterscript anti-cheat canggih yang dikembangkan untuk server **SA:MP**.
-
-Tujuannya adalah mendeteksi dan mencegah berbagai jenis cheat dengan tetap meminimalkan *false detection* selama pemain bermain secara normal.
-
-Dirancang agar ringan, efisien, dan mudah diintegrasikan ke berbagai mode permainan seperti **Roleplay**, **Freeroam**, maupun gamemode kustom lainnya.
+Kompatibel untuk server **Roleplay**, **Freeroam**, maupun gamemode kustom lainnya.
 
 ---
 
-# ✨ Fitur
+## ✨ Fitur
 
-| Deteksi | Status |
-|:------------------------------|:------:|
+| Fitur | Status |
+|:----------------------------|:------:|
 | ❤️ Health Hack | ✅ |
-| 🛡 Armor Hack | ✅ |
+| 🛡️ Armor Hack | ✅ |
 | 🏃 Speedhack (OnFoot) | ✅ |
 | ✈️ AirBrake (OnFoot) | ✅ |
-| 🕊 FlyHack (OnFoot) | ✅ |
+| 🕊️ FlyHack (OnFoot) | ✅ |
 | 📍 Teleport (OnFoot) | ✅ |
 | 🚗 Vehicle God Mode | ✅ |
 | 💰 Money Hack | ✅ |
 | 🔫 C-Bug Detection | ✅ |
 | ⚡ Rapid Fire | ✅ |
 | 🎯 Weapon Hack | ✅ |
-| 🌍 VPN Check | ✅ |
+| 🌐 VPN Check | ✅ |
 
 ---
 
-# ⚙️ Keunggulan
+## ⚙️ Keunggulan
 
-- ✔ Ringan
-- ✔ Kinerja yang Dioptimalkan
-- ✔ Instalasi Mudah
-- ✔ Perlindungan dari *False Detection*
-- ✔ Deteksi Otomatis
-- ✔ Ramah terhadap Performa Server
+- 🚀 Ringan
+- ⚡ Performa Optimal
+- 🛠️ Instalasi Mudah
+- 🛡️ Perlindungan False Detection
+- 🤖 Deteksi Otomatis
+- 💻 Ramah terhadap Performa Server
 
 ---
 
-# 📂 Instalasi
+## 📂 Instalasi
 
-1. Masukkan file **`.amx`** ke dalam folder **filterscripts**.
+Masukkan file **IR-AC.amx** ke dalam folder **filterscripts**.
 
-2. Edit file **`server.cfg`**.
+Edit file `server.cfg`:
 
 ```cfg
 filterscripts irsan1 irsan2 IR-AC
 ```
 
-3. Restart server Anda.
-
-**Selesai! 🎉**
+Kemudian restart server.
 
 ---
 
-# 📌 Persyaratan
+## 📌 Persyaratan
 
 - SA:MP 0.3.7
 
 ---
 
-# 📊 Versi Saat Ini
+## 📊 Versi Saat Ini
 
 ```text
 IR-AC v1.1
@@ -89,16 +78,16 @@ IR-AC v1.1
 
 ---
 
-# 🚀 Pembaruan Selanjutnya
+## 🚀 Pembaruan Berikutnya
 
-- ✅ Add Vehicle SpeedHack Type 1–3
-- ✅ No Reload Detection
-- ✅ Add OnFoot SpeedHack Type 1.3
-- ✅ Fake Lag Detection *(Beta)*
+- Vehicle SpeedHack Type 1–3
+- No Reload Detection
+- OnFoot SpeedHack Type 1.3
+- Fake Lag Detection *(Beta)*
 
 ---
 
-# ❤️ Credits
+## ❤️ Credits
 
 ### IRSAN SAMP
 
@@ -112,12 +101,7 @@ https://chat.whatsapp.com/CADlHPIDGLjFmVhw2UW2k5
 
 ---
 
-<div align="center">
+⭐ **Jika proyek ini bermanfaat, jangan lupa berikan Star pada repositori ini.**
 
-### ⭐ Jika Anda menyukai proyek ini, jangan lupa memberikan **Star** pada repositori ini!
-
-**IR-AC © 2026**
-
-</div>
-````
-
+**© 2026 IR-AC**
+```
